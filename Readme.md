@@ -1,4 +1,4 @@
-# Full-Stack Authentication & User Management Assessment
+# Full-Stack Authentication & User Management Project
 
 ## 1. Project Overview
 
